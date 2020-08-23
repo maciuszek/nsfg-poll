@@ -1,1 +1,5 @@
 nsfg-poll.code-workspace
+
+*.pyc
+
+env.sh
