@@ -1,6 +1,6 @@
 # NSFG-POLL
 
-NSFG-POLL is a customized implemenation of https://github.com/stayingqold/Poll-Bot modified to be lighter and heroku ready
+NSFG-POLL is a customized implemenation of https://github.com/stayingqold/Poll-Bot modified to be unbranded, lighter and heroku ready
 
 ## Configuration
 
